@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Bibekananda Jana</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
+</p>
+<h1 align="center">Hi! Welcome to my repo.I'm Bibekananda Jana</h1>
+
+<hr>
+
+☁️ AWS Cloud architect 🌟 Backend Developer, 🌟 Data Scientist
+------------------------------------------------------------------------------------------------------------------------------------
+
 <h3 align="center">I have been learning to code since 2012 and so far it as been quite a fulfilling journey. I started of with HTML, JS, CSS, nodejs, MongoDB etc but have since found a passion for Laravel, NodeJs and Python. I made the switch from Software Developer towards DevOps as I have always loved to tinker with things more specifically computers and having both front end and backend skills helps me do just that.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbibekjana&label=Profile%20views&color=0e75b6&style=flat" alt="mbibekjana" /> </p>
